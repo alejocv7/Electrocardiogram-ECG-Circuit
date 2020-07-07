@@ -20,4 +20,9 @@ his project involves the design and implementation of an electrocardiogram (ECG)
   <img width="400" height="200" src="images/3.JPG">
   <img width="400" height="200" src="images/matlab_use.png">
   <img width="400" height="200" src="images/connection.jpg">
+    
+  <video width="400" height="200" controls>
+    <source src="images/Lead I.mp4" type="video/mp4">
+    <source src="images/Lead III.mp4" type="video/mp4">
+  </video>
 </p> 
