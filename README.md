@@ -7,7 +7,7 @@
 
 ## Skills and tools used
 
-> Circuit Design | LabVIEW | MATLAB | Digital Signal Processing
+> Circuit Design | LabVIEW | MATLAB | Digital Signal Processing | Arduino
                                                                                                                 
 ## Summary
 
